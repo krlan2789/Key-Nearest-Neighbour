@@ -1,0 +1,8 @@
+- Key (K), banyak data terdekat yang digunakan untuk pengkategorian.
+- jumlah Key (K), lebih besar dari kategori data, lebih kecil atau sama dengan jumlah data, dan bernilai ganjil.
+- Mengukur jarak terdekat dari data-data yang sudah ada.
+- Mencari jarak antar data menggunakan rumus trigonometri.
+- Dari banyak data terdekat sejumlah key(K), yang memiliki jumlah terbanyak dari data-data terdekat .
+- Metode Perhitungan :
+  + Euclidean Distance.
+  + Cosine Similarity.
